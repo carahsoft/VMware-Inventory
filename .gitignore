@@ -1,0 +1,4 @@
+dist/
+*.csv
+.DS_Store
+vmware-inventory
